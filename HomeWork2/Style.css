@@ -1,0 +1,31 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+a:hover {
+    color: brown;
+}
+
+img {
+   border: 2px solid rgb(75, 19, 180);
+   margin-left: 500px;
+}
+
+.myclass {
+    margin-left: 500px;
+
+}
+
+body {
+    background-color: aquamarine;
+}
